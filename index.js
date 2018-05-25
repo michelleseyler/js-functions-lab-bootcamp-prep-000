@@ -7,7 +7,10 @@ function happyHolidaysTo(string) {
 }
 function happyHolidayTo(string) {
   return 'Happy Independence Day, you!'
+<<<<<<< HEAD
 }
 function holidayCountdown(string) {
   return "It's 20 days until Mother's Day!"
+=======
+>>>>>>> caad61c8f392123dc85663cbd5617c30efd51144
 }
